@@ -29,6 +29,7 @@ int main()
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # Game.cpp
 
@@ -148,6 +149,7 @@ void Game::run()
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # Game.h
 
@@ -195,6 +197,7 @@ public:
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # State.cpp
 
@@ -228,6 +231,7 @@ void State::checkForQuit()
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # State.h
 
@@ -270,6 +274,7 @@ public:
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # GameState.cpp
 
@@ -321,6 +326,7 @@ void GameState::render(sf::RenderTarget* target)
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # GameState.h
 
@@ -354,6 +360,7 @@ public:
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # Entity.cpp
 
@@ -389,6 +396,7 @@ void Entity::render(sf::RenderTarget* target)
 ```
 </br>
 <hr>
+<a href="#todo-client">Наверх документа</a></br>
 
 # Entity.h
 
@@ -427,4 +435,4 @@ public:
 ```
 </br>
 <hr>
-
+<a href="#todo-client">Наверх документа</a></br>
